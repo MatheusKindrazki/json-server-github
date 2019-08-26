@@ -1,0 +1,57 @@
+{
+  "condicoes": [
+    "Produto funcionando em sua embalagem original",
+    "Produto funcionando sem capa ou com capa paralela, etc",
+    "Produto funcionando, mas europeu",
+    "Produto funcionando, mas japonês",
+    "Produto não funciona"
+  ],
+  "produtos": [
+    {
+      "value": "The Last Of Us",
+      "image": "https://cdn.europosters.eu/image/750/posters/the-last-of-us-2-ellie-i76473.jpg"
+    },
+    {
+      "value": "God of War",
+      "image": "https://http2.mlstatic.com/god-of-war-ps4-capa-plastica-dublado-midia-fisica-novo-D_NQ_NP_716522-MLB29349939425_022019-F.jpg"
+    },
+    {
+      "value": "Diablo 3",
+      "image": "https://assets.xtechcommerce.com/uploads/images/full/0b6d1d0be884d2b2dd8b3cb404b641d5.png"
+    },
+    {
+      "value": "Skyrim",
+      "image": "https://jollyjohns.b-cdn.net/wp-content/uploads/2019/06/skyrim.jpg"
+    }
+  ],
+  "dicas": {
+    "title": "Dicas para encontrar melhores resultados",
+    "description": "Digite na barra de pesquisa o nome do produto o mais correto possível para que as chances de encontrá-lo em nosso banco de dados sejam maiores.",
+    "exemples": [
+      {
+        "title": "Exemplo de uma pesquisa de jogos bem formatada",
+        "exemple": "Jogo LEGO City Undercover - Xbox One",
+        "correct": true
+      },
+      {
+        "title": "Exemplo de uma pesquisa de jogos mal formatada",
+        "exemple": "LEGO Xbox",
+        "correct": false
+      },
+      {
+        "title": "Exemplo de uma pesquisa de consoles bem formatada",
+        "exemple": "Consola Playstation 4 Slim 500GB - Sony",
+        "correct": true
+      },
+      {
+        "title": "Exemplo de uma pesquisa de consoles mal formatada",
+        "exemple": "Videogame",
+        "correct": false
+      }
+    ]
+  },
+
+  "cidades": ["Curitiba", "Sao Paulo", "Minas Gerais", "Mato Grosso"],
+
+  "comoConheceu": ["Indicacao de um amigo", "Internet", "Redes Sociais"]
+}
