@@ -22,6 +22,22 @@
     {
       "value": "Skyrim",
       "image": "https://jollyjohns.b-cdn.net/wp-content/uploads/2019/06/skyrim.jpg"
+    },
+    {
+      "value": "The Last Of Us 2",
+      "image": "https://cdn.europosters.eu/image/750/posters/the-last-of-us-2-ellie-i76473.jpg"
+    },
+    {
+      "value": "God of War 2",
+      "image": "https://http2.mlstatic.com/god-of-war-ps4-capa-plastica-dublado-midia-fisica-novo-D_NQ_NP_716522-MLB29349939425_022019-F.jpg"
+    },
+    {
+      "value": "Diablo 4",
+      "image": "https://assets.xtechcommerce.com/uploads/images/full/0b6d1d0be884d2b2dd8b3cb404b641d5.png"
+    },
+    {
+      "value": "Skyrim 2",
+      "image": "https://jollyjohns.b-cdn.net/wp-content/uploads/2019/06/skyrim.jpg"
     }
   ],
   "dicas": {
@@ -51,7 +67,29 @@
     ]
   },
 
-  "cidades": ["Curitiba", "Sao Paulo", "Minas Gerais", "Mato Grosso"],
+  "cidades": [
+    "Curitiba",
+    "Sao Paulo",
+    "Minas Gerais",
+    "Mato Grosso",
+    "Rio de Janeiro",
+    "Brasília",
+    "Salvador",
+    "Fortaleza",
+    "Belo Horizonte",
+    "Manaus"
+  ],
 
-  "comoConheceu": ["Indicacao de um amigo", "Internet", "Redes Sociais"]
+  "comoConheceu": [
+    "Indicacao de um amigo",
+    "Internet",
+    "Redes Sociais",
+    "Opcao 1",
+    "Opcao 2",
+    "Opcao 3",
+    "Opcao 4",
+    "Opcao 5",
+    "Opcao 6",
+    "Opcao 7"
+  ]
 }
