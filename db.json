@@ -1,93 +1,116 @@
 {
-  "condicoes": [
-    "Produto funcionando em sua embalagem original",
-    "Produto funcionando sem capa ou com capa paralela, etc.",
-    "Produto funcionando, mas europeu",
-    "Produto funcionando, mas japonês",
-    "Produto não funciona"
-  ],
-  "produtos": [
-    {
-      "value": "The Last Of Us",
-      "image": "https://cdn.europosters.eu/image/750/posters/the-last-of-us-2-ellie-i76473.jpg"
+  "dashboard": {
+    "coursePreview" : {
+      "category": "Programação Visual",
+      "title": "Design Digital",
+      "progress": 74,
+      "url": "/"
     },
-    {
-      "value": "God of War",
-      "image": "https://http2.mlstatic.com/god-of-war-ps4-capa-plastica-dublado-midia-fisica-novo-D_NQ_NP_716522-MLB29349939425_022019-F.jpg"
-    },
-    {
-      "value": "Diablo 3",
-      "image": "https://assets.xtechcommerce.com/uploads/images/full/0b6d1d0be884d2b2dd8b3cb404b641d5.png"
-    },
-    {
-      "value": "Skyrim",
-      "image": "https://jollyjohns.b-cdn.net/wp-content/uploads/2019/06/skyrim.jpg"
-    },
-    {
-      "value": "The Last Of Us 2",
-      "image": "https://cdn.europosters.eu/image/750/posters/the-last-of-us-2-ellie-i76473.jpg"
-    },
-    {
-      "value": "God of War 2",
-      "image": "https://http2.mlstatic.com/god-of-war-ps4-capa-plastica-dublado-midia-fisica-novo-D_NQ_NP_716522-MLB29349939425_022019-F.jpg"
-    },
-    {
-      "value": "Diablo 4",
-      "image": "https://assets.xtechcommerce.com/uploads/images/full/0b6d1d0be884d2b2dd8b3cb404b641d5.png"
-    },
-    {
-      "value": "Skyrim 2",
-      "image": "https://jollyjohns.b-cdn.net/wp-content/uploads/2019/06/skyrim.jpg"
-    }
-  ],
-  "dicas": {
-    "title": "Dicas para encontrar melhores resultados",
-    "description": "Compramos vários itens usados, games, acessórios, celulares e mais! Se você tem algum produto que acredita que faça sentido com o universo do MeuGameUsado, como actions figures, fique a vontade para incluí-lo em sua cotação.",
-    "exemples": [
+    "boxInfos": [
       {
-        "title": "Exemplo de uma pesquisa de jogos bem formatada:",
-        "exemple": "Jogo LEGO City Undercover - Xbox One",
-        "correct": true
+        "type": "courses",
+        "label": "Cursos concluídos",
+        "quantity": 12
       },
       {
-        "title": "Exemplo de uma pesquisa de jogos mal formatada:",
-        "exemple": "LEGO Xbox",
-        "correct": false
+        "type": "answers",
+        "label": "Respostas certas",
+        "quantity": 5993
       },
       {
-        "title": "Exemplo de uma pesquisa de consoles bem formatada:",
-        "exemple": "Console Playstation 4 Slim 500GB - Sony",
-        "correct": true
+        "type": "going",
+        "label": "Em andamento",
+        "quantity": 2
       },
       {
-        "title": "Exemplo de uma pesquisa de consoles mal formatada:",
-        "exemple": "Videogame",
-        "correct": false
+        "type": "comments",
+        "label": "Comentários",
+        "quantity": 3
+      }
+    ],
+    "communications": [
+      {
+        "category": "Conteúdo",
+        "title": "Novo texto complementar de Empreendedorismo.",
+        "date": "6 de Out",
+        "link": "/"
+      },
+      {
+        "category": "Central de pagamentos",
+        "title": "Adiante suas mensalidades e receba descontos",
+        "date": "6 de Out",
+        "link": "/"
+      },
+      {
+        "category": "Central de notas",
+        "title": "Nota de Gestão de Pessoas está disponível.",
+        "date": "2 de Out",
+        "link": "/"
+      }
+    ],
+    "activities": [
+      {
+        "type": "answer",
+        "title": "A sua pergunta foi respondida pelo tutor",
+        "date": "Há 20 minutos",
+        "textLink": "Empreendedorismo 2.0",
+        "link": "/"
+      },
+      {
+        "type": "concluded",
+        "title": "Você concluiu o teste do curso de Matemática sem erros!",
+        "date": "Há 2 dias",
+        "textLink": "Clube de Matemática",
+        "link": "/"
+      },
+      {
+        "type": "download",
+        "title": "Você baixou um arquivo da Biblioteca.",
+        "date": "6 de Out",
+        "textLink": "Resumo do módulo 2",
+        "link": "/"
+      },
+      {
+        "type": "download",
+        "title": "Você baixou um arquivo da Biblioteca.",
+        "date": "8 de Out",
+        "textLink": "Resumo do módulo 1",
+        "link": "/"
+      },
+      {
+        "type": "concluded",
+        "title": "Você concluiu o teste do curso de Matemática sem erros!",
+        "date": "10 de Out",
+        "textLink": "Clube de Matemática",
+        "link": "/"
       }
     ]
   },
-
-  "cidades": [
-    "Curitiba",
-    "São Paulo",
-    "Minas Gerais",
-    "Mato Grosso",
-    "Rio de Janeiro",
-    "Brasília",
-    "Salvador",
-    "Fortaleza",
-    "Belo Horizonte",
-    "Manaus"
+  "notifys": [
+    {
+      "category": "Pagamentos",
+      "title": "Pagamento de Novembro recebido",
+      "time": "7 minutos"
+    },
+    {
+      "category": "Pagamentos",
+      "title": "Pagamento de Novembro recebido",
+      "time": "10 minutos"
+    },
+    {
+      "category": "Pagamentos",
+      "title": "Pagamento de Novembro recebido",
+      "time": "15 minutos"
+    },
+    {
+      "category": "Pagamentos",
+      "title": "Pagamento de Novembro recebido",
+      "time": "20 minutos"
+    }
   ],
-
-  "comoConheceu": [
-    "Indicação de um amigo",
-    "Internet",
-    "Redes Sociais",
-    "Folhetos",
-    "Pesquisa na internet",
-    "Eventos",
-    "Revistas",
-    "Televisão"
-  ]
+  "news": {
+    "date": "30 Jan 2019 - 2:23pm",
+    "description": "A partir de agora você também consegue acessar suas vídeoaulas no formato podcast, para escutar onde e quando quiser.",
+    "link": "/"
+  }
 }
